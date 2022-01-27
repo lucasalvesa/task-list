@@ -13,6 +13,7 @@ Update and delete items from a task list and create a simple CRUD (Create, Read,
 ### 🛠️ Set up
 
 Clone it and run ```npm install```
+
 Then ```npm start```
 
 <p align="center">
